@@ -1,3 +1,19 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Marcos",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "task": "Rodrigo",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "task": "Moises",
+      "completed": false
+    }
+  ]
 }
